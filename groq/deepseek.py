@@ -5,7 +5,7 @@
 import openai
 
 # Set your API key
-openai.api_key = "sk-91c58b0c23884b52b97699b788418e70"
+openai.api_key = "sk- "
 
 # If using a custom API endpoint, set the base_url (optional)
 openai.api_base = "https://api.deepseek.com"
